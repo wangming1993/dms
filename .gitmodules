@@ -1,0 +1,3 @@
+[submodule "server/java"]
+	path = server/java
+	url = https://github.com/wangming1993/dms-java.git
